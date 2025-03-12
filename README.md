@@ -72,5 +72,4 @@ Once the application is running, you can use the following commands:
 ## Acknowledgments
 
 - [PokeAPI](https://pokeapi.co/) for providing the Pokémon data.
-```
 
